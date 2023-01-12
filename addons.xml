@@ -1271,7 +1271,7 @@
 	</extension>
 </addon>
 
-<addon id="script.gaia.metadata" version="6.1.0" name="Gaia Metadata" provider-name="Gaia">
+<addon id="script.gaia.metadata" version="6.0.0" name="Gaia Metadata" provider-name="Gaia">
 	<requires>
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />
