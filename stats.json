@@ -1,0 +1,121 @@
+{
+	"plugin.video.gaia":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 4893738,
+			"uncompressed": 23024215
+		}
+	},
+	"script.gaia.externals":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 16530055,
+			"uncompressed": 66662283
+		}
+	},
+	"script.gaia.resources":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 29212099,
+			"uncompressed": 30428934
+		}
+	},
+	"script.gaia.metadata":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 91867561,
+			"uncompressed": 559236897
+		},
+		"data":
+		{
+			"count":
+			{
+				"movie": 21140,
+				"set": 0,
+				"show": 10497,
+				"season": 16155,
+				"episode": 45133
+			},
+			"size":
+			{
+				"movie": 149786624,
+				"set": 4096,
+				"show": 158257152,
+				"season": 75292672,
+				"episode": 171491328
+			}
+		}
+	},
+	"script.gaia.binaries":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 21689972,
+			"uncompressed": 52557785
+		}
+	},
+	"script.gaia.icons":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 85955439,
+			"uncompressed": 92160674
+		}
+	},
+	"script.gaia.skins":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 35019162,
+			"uncompressed": 35676106
+		}
+	},
+	"repository.gaia.full":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 583207,
+			"uncompressed": 619041
+		}
+	},
+	"repository.gaia.core":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 583089,
+			"uncompressed": 618959
+		}
+	},
+	"repository.gaia.test":
+	{
+		"version": "6.0.0",
+		"time": 1673512899,
+		"size":
+		{
+			"compressed": 581301,
+			"uncompressed": 616676
+		}
+	}
+}
