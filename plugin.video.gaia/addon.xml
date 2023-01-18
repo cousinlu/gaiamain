@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.gaia" version="6.0.9" name="Gaia" provider-name="Gaia">
+<addon id="plugin.video.gaia" version="6.1.0" name="Gaia" provider-name="Gaia">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 
-		<import addon="script.gaia.resources" version="6.0.0" />
-		<import addon="script.gaia.externals" version="6.0.9" />
-		<import addon="script.gaia.binaries" version="6.0.0" optional="true" />
-		<import addon="script.gaia.icons" version="6.0.0" optional="true" />
-		<import addon="script.gaia.skins" version="6.0.0" optional="true" />
+		<import addon="script.gaia.resources" version="6.1.0" />
+		<import addon="script.gaia.externals" version="6.1.0" />
 
-		<import addon="repository.gaia.core" version="6.0.0" optional="true" />
-		<import addon="repository.gaia.full" version="6.0.0" optional="true" />
+		<import addon="script.gaia.metadata" version="6.1.0" optional="true" />
+		<import addon="script.gaia.binaries" version="6.1.0" optional="true" />
+		<import addon="script.gaia.icons" version="6.1.0" optional="true" />
+		<import addon="script.gaia.skins" version="6.1.0" optional="true" />
+
+		<import addon="repository.gaia.core" version="6.1.0" optional="true" />
+		<import addon="repository.gaia.full" version="6.1.0" optional="true" />
 
 		<import addon="script.module.orion" version="4.9.5" />
 

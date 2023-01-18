@@ -2,7 +2,7 @@
 <addon id="script.gaia.metadata" version="6.1.0" name="Gaia Metadata" provider-name="Gaia">
 	<requires>
 	</requires>
-	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.python.module" />
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Gaia Metadata</summary>
 		<description lang="en">Preprocessed movie and show metadata for faster menu loading.</description>

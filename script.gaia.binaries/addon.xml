@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.gaia.binaries" version="6.0.0" name="Gaia Binaries" provider-name="Gaia">
+<addon id="script.gaia.binaries" version="6.1.0" name="Gaia Binaries" provider-name="Gaia">
 	<requires>
 	</requires>
-	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.python.module" />
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Gaia Binaries</summary>
 		<description lang="en">Additional external binaries for Gaia.</description>
