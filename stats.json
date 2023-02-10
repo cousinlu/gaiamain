@@ -1,67 +1,67 @@
 {
 	"plugin.video.gaia":
 	{
-		"version": "6.1.3",
-		"time": 1675583179,
+		"version": "6.1.4",
+		"time": 1676028310,
 		"size":
 		{
-			"compressed": 4903334,
-			"uncompressed": 17354610
+			"compressed": 4917155,
+			"uncompressed": 17452643
 		}
 	},
 	"script.gaia.externals":
 	{
 		"version": "6.1.3",
-		"time": 1675583179,
+		"time": 1676028310,
 		"size":
 		{
 			"compressed": 16530244,
-			"uncompressed": 63452291
+			"uncompressed": 67024138
 		}
 	},
 	"script.gaia.resources":
 	{
-		"version": "6.1.0",
-		"time": 1675583179,
+		"version": "6.1.4",
+		"time": 1676028310,
 		"size":
 		{
-			"compressed": 29212086,
-			"uncompressed": 30428934
+			"compressed": 29174954,
+			"uncompressed": 30431449
 		}
 	},
 	"script.gaia.metadata":
 	{
-		"version": "6.1.0",
-		"time": 1675583179,
+		"version": "6.1.4",
+		"time": 1676028310,
 		"size":
 		{
-			"compressed": 93371626,
-			"uncompressed": 570510631
+			"compressed": 100772833,
+			"uncompressed": 609594737
 		},
 		"data":
 		{
 			"count":
 			{
-				"movie": 21711,
-				"set": 0,
-				"show": 10515,
-				"season": 16335,
-				"episode": 45340
+				"movie": 24058,
+				"set": 5429,
+				"show": 11412,
+				"season": 16556,
+				"episode": 45710
 			},
 			"size":
 			{
-				"movie": 153014272,
-				"set": 4096,
-				"show": 163618816,
-				"season": 76931072,
-				"episode": 172486656
+				"movie": 165244928,
+				"set": 8994816,
+				"show": 179265536,
+				"season": 77660160,
+				"episode": 173510656
 			}
 		}
 	},
 	"script.gaia.binaries":
 	{
 		"version": "6.1.0",
-		"time": 1675583179,
+		"time": 1676028310,
 		"size":
 		{
 			"compressed": 21689965,
@@ -70,18 +70,18 @@
 	},
 	"script.gaia.icons":
 	{
-		"version": "6.1.0",
-		"time": 1675583179,
+		"version": "6.1.4",
+		"time": 1676028310,
 		"size":
 		{
-			"compressed": 85955434,
-			"uncompressed": 92160674
+			"compressed": 80075100,
+			"uncompressed": 89440011
 		}
 	},
 	"script.gaia.skins":
 	{
 		"version": "6.1.0",
-		"time": 1675583179,
+		"time": 1676028310,
 		"size":
 		{
 			"compressed": 35019153,
@@ -91,7 +91,7 @@
 	"repository.gaia.full":
 	{
 		"version": "6.1.0",
-		"time": 1675583179,
+		"time": 1676028310,
 		"size":
 		{
 			"compressed": 583216,
@@ -101,7 +101,7 @@
 	"repository.gaia.core":
 	{
 		"version": "6.1.0",
-		"time": 1675583179,
+		"time": 1676028310,
 		"size":
 		{
 			"compressed": 583096,
