@@ -1,18 +1,18 @@
 {
 	"plugin.video.gaia":
 	{
-		"version": "6.1.7",
-		"time": 1676897931,
+		"version": "6.1.8",
+		"time": 1677076485,
 		"size":
 		{
-			"compressed": 4924618,
-			"uncompressed": 17527024
+			"compressed": 4929900,
+			"uncompressed": 17562077
 		}
 	},
 	"script.gaia.externals":
 	{
 		"version": "6.1.7",
-		"time": 1676897931,
+		"time": 1677076485,
 		"size":
 		{
 			"compressed": 16530261,
@@ -22,7 +22,7 @@
 	"script.gaia.resources":
 	{
 		"version": "6.1.7",
-		"time": 1676897931,
+		"time": 1677076485,
 		"size":
 		{
 			"compressed": 29977206,
@@ -32,7 +32,7 @@
 	"script.gaia.metadata":
 	{
 		"version": "6.1.4",
-		"time": 1676897931,
+		"time": 1677076485,
 		"size":
 		{
 			"compressed": 100772833,
@@ -61,7 +61,7 @@
 	"script.gaia.binaries":
 	{
 		"version": "6.1.0",
-		"time": 1676897931,
+		"time": 1677076485,
 		"size":
 		{
 			"compressed": 21689965,
@@ -71,7 +71,7 @@
 	"script.gaia.icons":
 	{
 		"version": "6.1.7",
-		"time": 1676897931,
+		"time": 1677076485,
 		"size":
 		{
 			"compressed": 80608718,
@@ -81,7 +81,7 @@
 	"script.gaia.skins":
 	{
 		"version": "6.1.0",
-		"time": 1676897931,
+		"time": 1677076485,
 		"size":
 		{
 			"compressed": 35019153,
@@ -91,7 +91,7 @@
 	"repository.gaia.full":
 	{
 		"version": "6.1.0",
-		"time": 1676897931,
+		"time": 1677076485,
 		"size":
 		{
 			"compressed": 583216,
@@ -101,7 +101,7 @@
 	"repository.gaia.core":
 	{
 		"version": "6.1.0",
-		"time": 1676897931,
+		"time": 1677076485,
 		"size":
 		{
 			"compressed": 583096,
