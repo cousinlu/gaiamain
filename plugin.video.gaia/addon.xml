@@ -4,7 +4,7 @@
 		<import addon="xbmc.python" version="3.0.0" />
 
 		<import addon="script.gaia.resources" version="6.3.0" />
-		<import addon="script.gaia.externals" version="6.3.0" />
+		<import addon="script.gaia.externals" version="6.3.1" />
 
 		<import addon="script.gaia.metadata" version="6.1.4" optional="true" />
 		<import addon="script.gaia.binaries" version="6.1.0" optional="true" />
